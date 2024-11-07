@@ -14,7 +14,7 @@ const App: React.FC = () => {
 
     return (
         <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100 p-6">
-            <h1 className="text-2xl font-bold text-gray-800 mb-4">Buscar Item por ID</h1>
+            <h1 className="text-2xl font-bold text-gray-800 mb-4">Buscar2 Item por ID</h1>
 
             <div className="flex items-center space-x-2">
                 <Input
